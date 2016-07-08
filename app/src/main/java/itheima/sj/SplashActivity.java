@@ -12,6 +12,7 @@ public class SplashActivity extends AppCompatActivity {
     private TextView tv_splash_version;
     private RelativeLayout rl_splash_root;
     //第二次
+    //第三次
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
